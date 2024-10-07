@@ -1,0 +1,63 @@
+# Maven and Gradle
+/target/
+/build/
+
+# IntelliJ IDEA
+/.idea/
+/*.iml
+*.iws
+
+# Eclipse
+/.classpath
+/.project
+/.settings/
+/spring-boot/.classpath
+/spring-boot/.project
+/spring-boot/.settings/
+
+# STS (Spring Tool Suite)
+/.springBeans
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# VS Code
+/.vscode/
+
+# Logs
+*.log
+logs/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Generated Files
+*.class
+*.out
+
+# Gradle cache
+.gradle
+/build/
+
+# Maven dependencies
+.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+**/mvnw
+**/mvnw.cmd
+**/target/
+
+# Other files to ignore
+.env
+
+application.properties
+application.yaml
